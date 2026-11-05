@@ -1,0 +1,6 @@
+{
+  "name": "Mission Control - Centralized Bot & Web Infrastructure Hub",
+  "description": "Production-grade centralized management dashboard to monitor, deploy, and manage Telegram bots, web apps, and websites with strict RBAC, live terminal logs, SSL tracking, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
